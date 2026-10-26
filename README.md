@@ -14,6 +14,12 @@ Built with Flutter and Firebase · Live on Google Play
 
 </div>
 
+<p align="center">
+  <img src="docs/screenshots/store-best-spots.jpg" width="260" alt="Best spots near you — map of community spots across Spain and Portugal">
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/store-local-gems.jpg" width="260" alt="Discover unique local gems — favourites folder">
+</p>
+
 ---
 
 ## Overview
@@ -21,6 +27,13 @@ Built with Flutter and Firebase · Live on Google Play
 AdventureMap lets users pin places worth visiting, browse what the community has found nearby, organise favourites into shareable folders and plan trips with friends. Every new spot goes through a moderation queue, and contributors climb a ten-level **Adventure Rank** (from *Newbie* to *Mythic*) by publishing quality content.
 
 The app is published on Google Play and fully localised in English and Spanish.
+
+## Screenshots
+
+| Explore the map | Spot details | Add a new spot | Favourite folders |
+|:---:|:---:|:---:|:---:|
+| <img src="docs/screenshots/map.jpg" width="200" alt="Map with category filters and community spots"> | <img src="docs/screenshots/spot-detail.jpg" width="200" alt="Spot detail with photos, rating, details, access and safety tabs"> | <img src="docs/screenshots/create-spot.jpg" width="200" alt="Create spot form with place search and category picker"> | <img src="docs/screenshots/favorites-folder.jpg" width="200" alt="Shareable favourites folder"> |
+| Category filters, favourites and your own spots on one map | Photo gallery, ratings and Details / Access / Safety tabs | Place search or map picker, eight categories | Organise spots into folders and share them |
 
 ## Features
 
@@ -30,7 +43,9 @@ The app is published on Google Play and fully localised in English and Spanish.
 - One-tap navigation to any spot with the user's preferred maps app
 
 **Contribute**
-- Create spots with photos, description and an exact location picker
+- Create spots with photos, description, access and safety notes, and an exact location picker
+- Categories for surf, snorkelling, cliff jumping, caves, natural pools, viewpoints and sunsets
+- Five-star community ratings
 - Suggest edits to other users' spots; report spots or comments
 - Content validation and image compression before upload
 
